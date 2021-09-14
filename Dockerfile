@@ -1,4 +1,4 @@
-FROM requarks/wiki:2
+FROM requarks/wiki:2.5.201
 WORKDIR /wiki
 ENV DB_TYPE postgres
 ENV DB_SSL 1
